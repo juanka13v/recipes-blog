@@ -13,7 +13,9 @@ body {
 
 a {
   color: var(--bs-dark);
+  text-decoration: none;
 }
+
 
 /* Category Card*/
 
